@@ -2,5 +2,5 @@
 parse JSON data in flutter
 
 
-
-https://jsonplaceholder.typicode.com/posts/1
+Parse URL
+https://jsonplaceholder.typicode.com/posts
